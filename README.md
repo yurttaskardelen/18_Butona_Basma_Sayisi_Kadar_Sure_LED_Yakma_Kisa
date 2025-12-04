@@ -69,8 +69,8 @@ Buton bağlantısı **Pull-Up** mantığına göre (GND'ye) yapılmalıdır.
 
 <img width="593" height="578" alt="image" src="https://github.com/user-attachments/assets/44d6365a-5f00-4dd1-b006-a705d7f1ef31" />
 
-
 ---
+
 ### 🚀 Nasıl Kullanılır?
 
 1.  Bu depoyu klonlayın (`git clone ...`).
